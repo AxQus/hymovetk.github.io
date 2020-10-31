@@ -1,1 +1,41 @@
-https://www.hymove.tk
+<!doctype html>
+<html>
+     <head>
+          <link rel="stylesheet" type="text/css" href="style/hymoney.css">
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width,initaial-scale=1">
+          <meta name="description" content="Oficjalna strona HyMove.tk - Minecraft Serwer">
+          <meta name="language" content="PL">
+          <meta name="url" content="http://hymove.tk">
+          <meta name="indefifer-URL" content="https://hymove.tk">
+          <meta property="og:locale" content="pl_PL">
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+          <title>Wsparcie HyMove</title>
+               <!-- Arc Widget !-->
+               <script async src="https://arc.io/widget.js#iSn1rDn4"></script>
+            <!--<script src="https://arc.io/arc-sw-core.js"></script>!-->
+           <style>
+                body {
+	                font-family: 'Roboto Mono', monospace;
+                }
+               .center {
+	                    text-align: center;
+	                color: #000000;
+	                font-size: 20px;
+                }
+           </style>
+     </head>
+     <body>
+            <info class="center">
+                <h1>HyMove</h1>
+                <h3>Uwagi</h3>
+                <p>- Nie otwieraj tej strony wiele razy.</p>
+                <p>- Upewnij się, że nie masz aktywowanego Ad Blockera.</p>
+                <p>- Upewnij się, że nie wyłączyłeś WebRTC w ustawieniach swojej przeglądarki.</p>
+                <p>- Upewnij się, że nie zostaniesz wykluczony z Arc.io. Możesz to sprawdzić klikając na niebieską ikonę w lewym dolnym rogu.</p>
+            </info>
+          <hymove class="hymove" >
+               <a target="_parent" href="https://www.hymove.tk">HyMove</a>
+          </hymove>
+     </body>
+</html>
